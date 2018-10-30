@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title> Cloud Sore </title>
+	<head>
+		<body>
+		<body style="background-color:powderblue;">
+			<center> <img src= "1.jpg" width="300x" /> </center>
+			<HR>
+			<center><h1> Profile Page Peserta Cloud Computing (Digital Talent Scholarship)
+			<HR>	
+			<h2> Nama: Reza </h2>
+			<h3> Tanggal lahir: 04-02-1993 </h3>
+			
+<p> Saya pertama kali menempuh pendidikan di TK Islam Al-Jihad pada tahun 1999 hingga 1998. 
+Saya kemudian melanjutkan pendidikan ke Sekolah Dasar di SD Negeri Cilangkap 04 Pagi pada tahun 1999 dan dinyatakan lulus pada tahun 2005.
+Pada tahun yang sama, 2005, saya melanjutkan pendidikan di jenjang berikutnya di SMP Negeri 230 Jakarta dan dinyatakan lulus pada tahun 2008.
+Kemudian, saya melanjutkan di SMA 58 Jakarta dari tahun 2008 hingga 2011. Setelah lulus di tahun yang sama, saya mendaftarkan diri melalui jalur SNMPTN dan diterima menjadi mahasiswa di Universitas Negeri Jakarta, di Progra Studi Sosiologi, Fakultas Ilmu Sosial.
+Semasa perkuliahan, saya menghasilkan dua buah karya ilmiah (penelitian) sosiologi dalam mata kuliah KKL dan PKL. Penulis melakukan kegiatan KKL di Desa Ciasmara, Kab. Bogor, Jawa Barat di tahun 2014. 
+Saya melakukan kegiatan PKL di KontraS (Komisi untuk Orang Hilang dan Korban Tindak Kekerasan) di Jakarta di tahun 2014 juga dan menghasilkan sebuah buletin dengan judul <i>"Kesehatan dalam Perspektif HAM"</i> yang di terbitkan KontraS di tahun 2015.	
+		</body>
+
+
+</html>
